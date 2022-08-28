@@ -1,7 +1,7 @@
 [![MasterHead](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/GIF-_Azure_InnerEyeBlog.gif)](https://Hassanshah531.io)
 <h1 align="center">Hi 👋, I'm Syed M Ahmed Hassan Shah</h1>
 <h3 align="center">A passionate Data Science Machine Learning Expert</h3>
-(img align="right" alt="Coding" width="400" src="https://www.sectechfield.com/img/tech-eye.gif")
+<img align="right" alt="Coding" width="400" src="https://www.sectechfield.com/img/tech-eye.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanshah531&label=Profile%20views&color=0e75b6&style=flat" alt="hassanshah531" /> </p>
 
