@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/5e/0c/09/5e0c09805d04718512864363ab3f0d78.gif)](https://Hassanshah531.io)
+[![MasterHead](https://www.sectechfield.com/img/tech-eye.gif)](https://Hassanshah531.io)
 <h1 align="center">Hi 👋, I'm Syed M Ahmed Hassan Shah</h1>
 <h3 align="center">A passionate Data Science Machine Learning Expert</h3>
 (img align="right" alt="Coding" width="400" src="https://www.sectechfield.com/img/tech-eye.gif")
