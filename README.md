@@ -1,4 +1,4 @@
-[![MasterHead](https://www.microsoft.com/en-us/research/uploads/prod/2020/09/GIF-_Azure_InnerEyeBlog.gif)](https://Hassanshah531.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*rmsHvbkjdD9ubUMQuQFv6Q.gif)](https://Hassanshah531.io)
 <h1 align="center">Hi 👋, I'm Syed M Ahmed Hassan Shah</h1>
 <h3 align="center">A passionate Data Science Machine Learning Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sectechfield.com/img/tech-eye.gif">
