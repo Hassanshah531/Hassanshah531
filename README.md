@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-hassan-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/hassanshah531" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -29,7 +28,7 @@
 - 🧠 Interested in: **Multimodal Learning**, **Self-supervised Representation Learning**, **Foundation Models**, **3D/4D Medical Imaging**
 - 💬 Ask me about: **Computer Vision, Deep Learning, GenAI, MLOps, Deployment**
 - 📫 Reach me: **syedmahmedhassan321@gmail.com**
-- ⚡ Fun fact: **I bring energy + clarity to teams (and yes, I’m funny 😄)**
+- ⚡ Fun fact: **I bring energy + clarity to teams**
 
 ---
 
