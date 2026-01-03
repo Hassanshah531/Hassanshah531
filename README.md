@@ -1,30 +1,105 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*rmsHvbkjdD9ubUMQuQFv6Q.gif)](https://Hassanshah531.io)
-<h1 align="center">Hi 👋, I'm Syed M Ahmed Hassan Shah</h1>
-<h3 align="center">A passionate Data Science Machine Learning Expert</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sectechfield.com/img/tech-eye.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanshah531&label=Profile%20views&color=0e75b6&style=flat" alt="hassanshah531" /> </p>
-
-- 🔭 I’m currently working on **Skin Cancer Detection**
-
-- 🌱 I’m currently learning **Deep Learning & Swarm Optimization**
-
-- 💬 Ask me about **Data Science, Machine Learning & Deep Learning**
-
-- 📫 How to reach me **fa18-bcs-065@cuiatk.edu.pk**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/s muhammad ahmed hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="s muhammad ahmed hassan" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <a href="https://hassanshah531.github.io/">
+    <img src="https://miro.medium.com/max/1400/1*rmsHvbkjdD9ubUMQuQFv6Q.gif" alt="Banner" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Syed M Ahmed Hassan Shah</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | GenAI & Medical Imaging Researcher</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshah531&show_icons=true&locale=en&layout=compact" alt="hassanshah531" /></p>
+<p align="center">
+  <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://github.com/hassanshah531" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanshah531&show_icons=true&locale=en" alt="hassanshah531" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanshah531&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshah531&" alt="hassanshah531" /></p>
+<img align="right" alt="AI Coding" width="420" src="https://www.sectechfield.com/img/tech-eye.gif"/>
+
+---
+
+## 🚀 About Me
+- 🔭 Currently building **Generative AI systems**, **Medical Imaging pipelines**, and **Smart Transportation Intelligence**
+- 🌱 Learning & shipping: **LLMs**, **Vision-Language Models (VLMs)**, **Diffusion Models**, **RAG**, **Agents**, and **Predictive Digital Twins**
+- 🧠 Interested in: **Multimodal Learning**, **Self-supervised Representation Learning**, **Foundation Models**, **3D/4D Medical Imaging**
+- 💬 Ask me about: **Computer Vision, Deep Learning, GenAI, MLOps, Deployment**
+- 📫 Reach me: **syedmahmedhassan321@gmail.com**
+- ⚡ Fun fact: **I bring energy + clarity to teams (and yes, I’m funny 😄)**
+
+---
+
+## 🧩 GenAI & Deep Learning Stack (Core)
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-Foundation%20Models-black?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLMs-Vision%20Language%20Models-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diffusion-Generative%20Models-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agents-Tool%20Use%20%26%20Planning-00b894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Training%20to%20Production-2d3436?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Languages, Tools & Frameworks
+<p align="left">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+
+  <!-- ML / DL -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42" />
+
+  <!-- GenAI / LLM Tools -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="42" height="42" />
+
+  <!-- Backend / Data -->
+  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb" />
+
+  <!-- DevOps / Deployment -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+
+  <!-- Visualization -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42" height="42" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" />
+
+</p>
+
+---
+
+## 📌 What I Deliver
+✅ **End-to-end ML pipelines** (data → training → evaluation → deployment)  
+✅ **Computer Vision systems** (segmentation, detection, classification, tracking)  
+✅ **GenAI applications** (RAG, agents, multimodal assistants, fine-tuning, prompt engineering)  
+✅ **Medical imaging research** (preprocessing, augmentation, 2D/3D models, clinical metrics)  
+✅ **Production mindset** (monitoring, reproducibility, inference optimization)
+
+---
+
+## 📈 GitHub Analytics
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hassanshah531&show_icons=true&locale=en" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshah531&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshah531&" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-syedmahmedhassan321%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
