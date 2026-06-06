@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://hassanshah531.github.io/">
-    <img src="banner.gif" alt="AI Security, Robust Watermarking and Medical AI Banner" width="100%" />
+    <img src="banner.png" alt="AI Security, Robust Watermarking and Medical AI Banner" width="100%" />
   </a>
 </p>
 
