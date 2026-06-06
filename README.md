@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Ahmed Hassan Shah</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Robust Watermarking, Multimedia Forensics & Intelligent Visual AI</h3>
+<h3 align="center">Machine Learning Engineer | AI Researcher | Computer Vision, Multimedia Forensics & Medical AI</h3>
 
 <p align="center">
   <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
