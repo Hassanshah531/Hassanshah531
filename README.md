@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://hassanshah531.github.io/">
-    <img src="https://miro.medium.com/max/1400/1*rmsHvbkjdD9ubUMQuQFv6Q.gif" alt="Banner" />
+    <img src="https://drive.google.com/file/d/1khsU_8rGJr3mundOVjyFgI_fSxLZ1cpf/view?usp=drive_link" alt="Banner" />
   </a>
 </p>
 
