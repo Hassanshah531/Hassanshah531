@@ -62,7 +62,6 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ## 🧩 GenAI & Deep Learning Stack
 
-```html
 <p align="left">
 
   <!-- Trustworthy Visual AI / Security -->
@@ -92,7 +91,6 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 </p>
 
 ---
-```
 
 
 ## 🛠️ Languages, Tools & Frameworks
