@@ -62,18 +62,38 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ## 🧩 GenAI & Deep Learning Stack
 
+```html
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-Foundation%20Models-black?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLMs-Vision%20Language%20Models-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Diffusion-Generative%20Models-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agents-Tool%20Use%20%26%20Planning-00b894?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Watermarking-AI%20Provenance-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forensics-Multimedia%20Security-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Training%20to%20Production-2d3436?style=for-the-badge"/>
+
+  <!-- Trustworthy Visual AI / Security -->
+  <img src="https://img.shields.io/badge/Robust%20Watermarking-Visual%20Content%20Protection-0077B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Provenance-Traceability%20%26%20Attribution-0096C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multimedia%20Forensics-Authenticity%20%26%20Tamper%20Detection-023E8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI%20Security-Threat%20Modeling%20%26%20Robustness-5A189A?style=for-the-badge"/>
+
+  <!-- Generative / Multimodal AI -->
+  <img src="https://img.shields.io/badge/VLMs-Vision%20Language%20Models-7209B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diffusion-Generative%20Models-F77F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Self--Supervised%20Learning-Representation%20Learning-2A9D8F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multimodal%20AI-Cross--Modal%20Learning-00B4D8?style=for-the-badge"/>
+
+  <!-- Efficient / Deployable AI -->
+  <img src="https://img.shields.io/badge/Knowledge%20Distillation-Efficient%20AI-264653?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quantization-Lightweight%20Inference-2D6A4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A4C93?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Training%20to%20Deployment-343A40?style=for-the-badge"/>
+
+  <!-- Applied AI Domains -->
+  <img src="https://img.shields.io/badge/Medical%20AI-Diagnostic%20Intelligence-D00000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transportation%20AI-Safety%20%26%20Robustness-FF8500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Geotechnical%20AI-Soil%20%26%20Infrastructure%20Modeling-6C584C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Biosensing%20AI-Electrochemical%20Detection-0081A7?style=for-the-badge"/>
+
 </p>
 
 ---
+```
+
 
 ## 🛠️ Languages, Tools & Frameworks
 
