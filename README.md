@@ -109,14 +109,12 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
   <!-- Backend / Data / Deployment -->
   <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-  <img src="https://skillicons.dev/icons?i=vscode,latex" />
 
 </p>
 
 ### Core Technical Skills
 
-`Python` · `PyTorch` · `TensorFlow/Keras` · `OpenCV` · `Scikit-learn` · `NumPy` · `Pandas` · `Computer Vision` · `Deep Learning` · `Medical Imaging` · `NLP` · `Generative AI` · `RAG` · `Vision-Language Models` · `Diffusion Models` · `MLOps` · `IoT` · `Point Clouds` · `Digital Twins` · `AI Watermarking` · `Multimedia Forensics` · `Structural Health Monitoring` · `Geotechnical AI`
+`Python` · `PyTorch` · `TensorFlow/Keras` · `OpenCV` · `Scikit-learn` · `NumPy` · `Pandas` · `Computer Vision` · `Deep Learning` · `Medical Imaging` · `Generative AI` · `RAG` · `MLOps` · `IoT` · `Digital Twins`
 
 ---
 
