@@ -46,14 +46,18 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 🎯 Research Focus
+  ## 🎯 Research Focus
 
-| Area                                           | Focus                                                                                                                                                                                                                                 |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<div align="justify">
+
+| Area | Focus |
+|---|---|
 | **Robust Watermarking & Multimedia Forensics** | AI provenance, content authenticity, traceability, attribution, image-to-video watermark robustness, temporal consistency, deepfake detection, tamper localization, generative transformation robustness, and attack-aware evaluation |
-| **Medical AI**                                 | AI-assisted diagnosis and medical image analysis for Alzheimer’s disease, brain tumors, tuberculosis, breast cancer, chronic wounds, segmentation, classification, and clinical decision support                                      |
-| **Transportation & Geotechnical AI**           | Safety-focused transportation intelligence, autonomous-driving edge-case robustness, injury severity analysis, railway/infrastructure inspection, soil stability analysis, NMR-type data modeling, and infrastructure reliability     |
-| **Mathematical & Efficient AI Research**       | Knowledge distillation, quantization, KV-cache optimization, lightweight inference, representation stability, theoretical bounds, robustness metrics, and evaluation frameworks for trustworthy AI systems                            |
+| **Medical AI** | AI-assisted diagnosis and medical image analysis for Alzheimer’s disease, brain tumors, tuberculosis, breast cancer, chronic wounds, segmentation, classification, and clinical decision support |
+| **Transportation & Geotechnical AI** | Safety-focused transportation intelligence, autonomous-driving edge-case robustness, injury severity analysis, railway/infrastructure inspection, soil stability analysis, NMR-type data modeling, and infrastructure reliability |
+| **Mathematical & Efficient AI Research** | Knowledge distillation, quantization, KV-cache optimization, lightweight inference, representation stability, theoretical bounds, robustness metrics, and evaluation frameworks for trustworthy AI systems |
+
+</div>
 
 
 ## 🧩 GenAI & Deep Learning Stack
