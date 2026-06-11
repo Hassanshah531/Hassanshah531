@@ -52,7 +52,7 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 | Area | Focus |
 |---|---|
-| **Robust Watermarking and Multimedia Forensics** | AI provenance, content authenticity, traceability, attribution, image-to-video watermark robustness, temporal consistency, deepfake & tampering detection, generative robustness, and attack-aware evaluation |
+| **Robust Watermarking and Multimedia Forensics** | AI provenance, content authenticity, traceability, image-to-video watermark robustness, temporal consistency, deepfake & tampering detection, generative transformations, and attack-aware evaluation |
 | **Clinical AI and Medical imaging** | AI-assisted diagnosis and medical image analysis for Alzheimer’s disease, brain tumors, tuberculosis, breast cancer, segmentation, classification, domain translation, and clinical decision support |
 | **Smart Transportation and Geotechnical AI** | Safety-focused transportation intelligence, autonomous-driving edge-case robustness, injury severity analysis, 3D infrastructure inspection, soil stability analysis, and infrastructure reliability |
 | **Mathematical & Efficient AI Research** | Knowledge distillation, quantization, KV-cache optimization, lightweight inference, representation stability, theoretical bounds, robustness metrics, and evaluation frameworks for trustworthy AI systems |
