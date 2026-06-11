@@ -48,21 +48,13 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ## 🎯 Research Focus
 
-<div align="justify">
+| Area                                           | Focus                                                                                                                                                                                                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Robust Watermarking & Multimedia Forensics** | AI provenance, content authenticity, traceability, attribution, image-to-video watermark robustness, temporal consistency, deepfake detection, tamper localization, generative transformation robustness, and attack-aware evaluation |
+| **Medical AI**                                 | AI-assisted diagnosis and medical image analysis for Alzheimer’s disease, brain tumors, tuberculosis, breast cancer, chronic wounds, segmentation, classification, and clinical decision support                                      |
+| **Transportation & Geotechnical AI**           | Safety-focused transportation intelligence, autonomous-driving edge-case robustness, injury severity analysis, railway/infrastructure inspection, soil stability analysis, NMR-type data modeling, and infrastructure reliability     |
+| **Mathematical & Efficient AI Research**       | Knowledge distillation, quantization, KV-cache optimization, lightweight inference, representation stability, theoretical bounds, robustness metrics, and evaluation frameworks for trustworthy AI systems                            |
 
-My research is primarily focused on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, and **Generative AI Security** for trustworthy visual and multimodal AI systems. My broader technical foundation includes **Computer Vision**, **Deep Learning**, **Generative AI**, and **Multimodal Learning**, which I apply through current research and collaborative projects.
-
-</div>
-
-| Focus Type | Area | Keywords |
-|---|---|---|
-| **Primary Focus** | **Robust Watermarking & AI Provenance** | Image-to-video watermark robustness, content authenticity, traceability, attribution, copyright protection |
-| **Primary Focus** | **Multimedia Forensics & GenAI Security** | Tamper detection, generative transformation robustness, threat modeling, secure visual AI |
-| **Core Technical Base** | **Computer Vision & Generative AI** | Diffusion models, VLMs, foundation models, multimodal learning, self-supervised learning |
-| **Collaborative Applications** | **Applied AI Domains** | Medical AI, transportation safety, infrastructure monitoring, geotechnical modeling, point clouds, digital twins, biosensing |
-| **Secondary Technical Interest** | **Efficient AI & LLMs** | RAG, agents, knowledge distillation, quantization, deployment optimization |
-
----
 
 ## 🧩 GenAI & Deep Learning Stack
 
