@@ -27,18 +27,18 @@
 
 <div align="justify">
 
-I am a **Machine Learning Engineer and AI Researcher** currently focusing on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, **Traceability**, and **Generative AI Security**. My current research direction aims to explore how AI-generated visual content can be protected, verified, attributed, and traced across different transformations, especially in complex settings such as image editing, image-to-video generation, diffusion-based generation, compression, and other real-world attacks.
+I am a **Machine Learning Engineer and AI Researcher** currently focusing on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, and **Generative AI Security**. My current research focuses on building trustworthy visual AI systems by enabling AI-generated content to remain protected, verifiable, attributable, and traceable across complex transformations such as image editing, image-to-video generation, and real-world adversarial attacks.
 
 Before moving deeply into the watermarking and provenance domain, I collaborated with researchers across several applied AI areas, including **Medical AI**, **Smart Transportation Systems**, **Geotechnical AI**, **Structural Health Monitoring**, **Point Cloud Intelligence**, **Digital Twins**, and **Electrochemical Biosensing-related AI applications**. These collaborations helped me build a strong foundation in computer vision, deep learning, multimodal learning, generative models, and real-world AI system development. I am especially interested in connecting advanced AI methods with domains where reliability, safety, and authenticity are critical.
 </div>
 
 - 🔭 Currently focused on **Robust Watermarking, AI Provenance, Multimedia Forensics, and Generative AI Security**
 - 🧠 Core areas: **Computer Vision, Deep Learning, Generative AI, Multimodal Learning, Foundation Models, and VLMs**
-- 🤝 Previous research collaborations span **Medical AI, Smart Transportation, Structural Health Monitoring, Geotechnical AI, Biosensing, and Intelligent Infrastructure**
-- 🏥 Medical AI: collaborated on **AI-assisted diagnosis, disease detection, segmentation, classification, and clinical decision-support systems**
-- 🚆 Transportation AI: collaborated on **traffic injury severity prediction** and **safety-centric post-training for highway edge-case robustness in end-to-end autonomous driving**
-- 🏗️ Infrastructure AI: collaborated on **railway inspection, point cloud intelligence, digital twins, defect analysis, predictive maintenance, and safety assessment**
-- 🌍 Geotechnical AI: collaborated on **soil stability analysis, Nuclear Magnetic Resonance-type data modeling, Physics-Infomred Neural Networks**
+- 🤝 Previous research collaborations span **Medical AI, Smart Transportation, Structural Health Monitoring, Geotechnical AI, and Infrastructure Management**
+- 🏥 Medical AI: collaborated on AI-assisted diagnosis and medical image analysis for **Alzheimer’s disease, brain tumors, tuberculosis, and clinical decision support**
+- 🚆 Transportation AI: collaborated on **traffic injury severity prediction** and **safety-centric post-training for highway edge-case robustness in autonomous driving**
+- 🏗️ Infrastructure AI: collaborated on **railway inspection, point cloud intelligence, digital twins, defect analysis, and predictive maintenance**
+- 🌍 Geotechnical AI: collaborated on **soil stability analysis using Nuclear Magnetic Resonance-type data modeling and Physics-Infomred Neural Networks**
 - 🧪 Biosensing: collaborated on **machine learning-assisted electrochemical simultaneous detection of dopamine and uric acid**
 - 📘 Book author: co-author of the full book **Smart Infrastructure Management**, published by **Elsevier**, contributing across all **12 chapters**
 - ✍️ Research profile: **20+ International Jounral publications**, **h-index: 12**, **i10-index: 12**
