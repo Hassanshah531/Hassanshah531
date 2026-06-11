@@ -29,7 +29,7 @@
 
 I am a **Machine Learning Engineer and AI Researcher** currently focusing on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, and **Generative AI Security**. My current research focuses on building trustworthy visual AI systems by enabling AI-generated content to remain protected, verifiable, attributable, and traceable across complex transformations such as image editing, image-to-video generation, and real-world adversarial attacks.
 
-Before moving deeply into the watermarking and provenance domain, I collaborated with researchers across several applied AI areas, including **Medical AI**, **Smart Transportation Systems**, **Geotechnical AI**, **Structural Health Monitoring**, **Point Cloud Intelligence**, **Digital Twins**, and **Electrochemical Biosensing-related AI applications**. These collaborations helped me build a strong foundation in computer vision, deep learning, multimodal learning, generative models, and real-world AI system development. I am especially interested in connecting advanced AI methods with domains where reliability, safety, and authenticity are critical.
+Before moving deeply into the watermarking and provenance domain, I collaborated with researchers across several applied AI areas, including **Medical AI**, **Smart Transportation Systems**, **Geotechnical AI**, **Structural Health Monitoring**, **Point Cloud Intelligence**, **Digital Twins**, and **Electrochemical Biosensing-related AI applications**.
 </div>
 
 - 🔭 Currently focused on **Robust Watermarking, AI Provenance, Multimedia Forensics, and Generative AI Security**
