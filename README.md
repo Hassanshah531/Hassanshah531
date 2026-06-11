@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://hassanshah531.github.io/">
-    <img src="banner.png" alt="AI Security, Robust Watermarking and Medical AI Banner" width="100%" />
+    <img src="https://miro.medium.com/max/1400/1*rmsHvbkjdD9ubUMQuQFv6Q.gif" alt="Banner" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Ahmed Hassan Shah</h1>
-<h3 align="center">Machine Learning Engineer | AI Researcher | Computer Vision, Multimedia Forensics & Medical AI</h3>
+<h3 align="center">Machine Learning Engineer | AI Researcher | Robust Watermarking, Multimedia Forensics & Medical AI</h3>
 
 <p align="center">
   <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -27,57 +27,40 @@
 
 <div align="justify">
 
-I am a **Machine Learning Engineer and AI Researcher** working on robust, explainable, and trustworthy AI systems. My main research direction is centered on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, **Traceability**, **Attribution**, and **Generative AI Security** for visual and multimodal content.
+I am a **Machine Learning Engineer and AI Researcher** currently focusing on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, **Traceability**, and **Generative AI Security**. My current research direction aims to explore how AI-generated visual content can be protected, verified, attributed, and traced across different transformations, especially in complex settings such as image editing, image-to-video generation, diffusion-based generation, compression, and other real-world attacks.
 
-My applied research experience spans multiple real-world AI domains, including **Medical AI**, **Structural Health Monitoring**, **Smart Transportation Systems**, **Intelligent Infrastructure Management**, **Railway Inspection**, **Point Cloud Intelligence**, **Digital Twins**, and **Geotechnical AI**. Across these domains, my goal is to build AI systems that are not only accurate, but also reliable, interpretable, secure, and deployable in practical environments.
-
+Before moving deeply into the watermarking and provenance domain, I collaborated with researchers across several applied AI areas, including **Medical AI**, **Smart Transportation Systems**, **Geotechnical AI**, **Structural Health Monitoring**, **Point Cloud Intelligence**, **Digital Twins**, and **Electrochemical Biosensing-related AI applications**. These collaborations helped me build a strong foundation in computer vision, deep learning, multimodal learning, generative models, and real-world AI system development. I am especially interested in connecting advanced AI methods with domains where reliability, safety, and authenticity are critical.
 </div>
 
-- 🔭 Currently working as a **Research Assistant at Central South University, China**
-- 🛡️ Primary research focus: **Robust Watermarking, AI Provenance, Multimedia Forensics, Traceability, Attribution, and Generative AI Security**
-- 🚆 Applied AI domains: **Medical AI, Structural Health Monitoring, Smart Transportation Systems, Intelligent Infrastructure Management, Railway Inspection, Point Clouds, Digital Twins, and Geotechnical AI**
-- 🏥 Medical AI experience: **MRI, CT, X-ray, Ultrasound, brain hemorrhage, Alzheimer’s disease, cancer detection, brain tumors, and chronic wound analysis**
-- ✍️ Research profile: **20+ publications**, **10+ book chapters**, **h-index: 12**, **i10-index: 12**
+- 🔭 Currently focused on **Robust Watermarking, AI Provenance, Multimedia Forensics, and Generative AI Security**
+- 🧠 Core areas: **Computer Vision, Deep Learning, Generative AI, Multimodal Learning, Foundation Models, and VLMs**
+- 🤝 Previous research collaborations span **Medical AI, Smart Transportation, Structural Health Monitoring, Geotechnical AI, Biosensing, and Intelligent Infrastructure**
+- 🏥 Medical AI: collaborated on **AI-assisted diagnosis, disease detection, segmentation, classification, and clinical decision-support systems**
+- 🚆 Transportation AI: collaborated on **traffic injury severity prediction** and **safety-centric post-training for highway edge-case robustness in end-to-end autonomous driving**
+- 🏗️ Infrastructure AI: collaborated on **railway inspection, point cloud intelligence, digital twins, defect analysis, predictive maintenance, and safety assessment**
+- 🌍 Geotechnical AI: collaborated on **soil stability analysis, Nuclear Magnetic Resonance-type data modeling, Physics-Infomred Neural Networks**
+- 🧪 Biosensing: collaborated on **machine learning-assisted electrochemical simultaneous detection of dopamine and uric acid**
+- 📘 Book author: co-author of the full book **Smart Infrastructure Management**, published by **Elsevier**, contributing across all **12 chapters**
+- ✍️ Research profile: **20+ International Jounral publications**, **h-index: 12**, **i10-index: 12**
 - 📫 Reach me at: **syedmahmedhassan321@gmail.com**
 
 ---
 
 ## 🎯 Research Focus
 
-| Area | Focus |
-|---|---|
-| **Robust Watermarking & AI Provenance** | Visual watermarking, image-to-video watermark robustness, AI-generated content traceability, attribution, and deep learning-based copyright protection |
-| **Multimedia Forensics & Security** | Content authenticity, tamper detection, generative transformation robustness, threat modeling, and secure visual AI systems |
-| **Generative AI & Vision Models** | Diffusion models, multimodal learning, vision-language models, self-supervised learning, foundation models, and trustworthy GenAI |
-| **Medical AI** | Medical image segmentation, classification, diagnosis support, brain hemorrhage detection, Alzheimer’s disease analysis, cancer detection, and chronic wound analysis |
-| **Structural Health Monitoring** | Crack segmentation, defect detection, infrastructure safety analysis, damage assessment, and explainable inspection systems |
-| **Smart Transportation Systems** | Railway monitoring, fastener inspection, low-visibility detection, transportation intelligence, policy-aware infrastructure AI, and route optimization |
-| **Intelligent Infrastructure Management** | Infrastructure health scoring, predictive maintenance, digital monitoring, explainable maintenance support, and safety-oriented AI systems |
-| **Geotechnical AI** | Soil stability analysis, physics-informed neural networks, generative modeling, and AI-based infrastructure reliability |
-| **Point Clouds & Digital Twins** | LiDAR simulation, monocular depth fusion, probabilistic point cloud generation, railway fastener modeling, and infrastructure digital twins |
-| **LLMs & Model Compression** | LLM applications, RAG, agents, knowledge distillation, quantization, and efficient AI deployment |
-
----
-
-## 🛡️ Current Interests
-
 <div align="justify">
 
-My current research interests connect **trustworthy generative AI** with applied visual intelligence. The primary direction is robust watermarking and multimedia forensics for AI-generated visual content, while secondary application domains include medical imaging, structural health monitoring, smart transportation, intelligent infrastructure management, and geotechnical AI.
+My research is primarily focused on **Robust Watermarking**, **AI Provenance**, **Multimedia Forensics**, and **Generative AI Security** for trustworthy visual and multimodal AI systems. My broader technical foundation includes **Computer Vision**, **Deep Learning**, **Generative AI**, and **Multimodal Learning**, which I apply through current research and collaborative projects.
 
 </div>
 
-- **Robust Watermarking for AI-generated Visual Content**
-- **Image-to-Video Watermark Robustness**
-- **AI Provenance and Content Authenticity**
-- **Multimedia Forensics and Security**
-- **Traceability and Attribution of Generated Media**
-- **Deep Learning-based Copyright Protection**
-- **End-to-End Threat Modeling for Generative AI**
-- **Medical AI and Secure Visual Diagnosis Systems**
-- **Smart Transportation and Intelligent Infrastructure Management**
-- **Structural Health Monitoring and Digital Twins**
-- **Geotechnical AI using PINNs and Generative AI**
+| Focus Type | Area | Keywords |
+|---|---|---|
+| **Primary Focus** | **Robust Watermarking & AI Provenance** | Image-to-video watermark robustness, content authenticity, traceability, attribution, copyright protection |
+| **Primary Focus** | **Multimedia Forensics & GenAI Security** | Tamper detection, generative transformation robustness, threat modeling, secure visual AI |
+| **Core Technical Base** | **Computer Vision & Generative AI** | Diffusion models, VLMs, foundation models, multimodal learning, self-supervised learning |
+| **Collaborative Applications** | **Applied AI Domains** | Medical AI, transportation safety, infrastructure monitoring, geotechnical modeling, point clouds, digital twins, biosensing |
+| **Secondary Technical Interest** | **Efficient AI & LLMs** | RAG, agents, knowledge distillation, quantization, deployment optimization |
 
 ---
 
@@ -175,14 +158,14 @@ My current research interests connect **trustworthy generative AI** with applied
 | **2** | **2023** | **1st Author** | Classifying and Localizing Abnormalities in Brain MRI Using Channel Attention-Based Semi-Bayesian Ensemble Voting Mechanism and Convolutional Auto-Encoder | IEEE Access |
 | **3** | **2024** | **1st Author** | Computer-aided Diagnosis of Alzheimer’s Disease and Neurocognitive Disorders with Multimodal Bi-Vision Transformer | Pattern Analysis and Applications |
 | **4** | **2023** | **1st Author** | CADFU for Dermatologists: A Novel Chronic Wounds and Ulcers Diagnosis System with DHuNeT and YOLOv8 Algorithm | Healthcare |
-| **5** | **2025** | **Co-author** | LiDAR-Simulated Multimodal and Self-Supervised Contrastive Digital Twin Approach for Probabilistic Point Cloud Generation of Rail Fasteners | Journal of Computing in Civil Engineering |
-| **6** | **2025** | **Co-author** | Vector-Quantized Variational Teacher and Multimodal Collaborative Student for Crack Segmentation via Knowledge Distillation | Journal of Computing in Civil Engineering |
-| **7** | **2025** | **Co-author** | Multimodal Geometric AutoEncoder for Rail Fasteners Tightness Evaluation with Point Clouds and Monocular Depth Fusion | Measurement |
-| **8** | **2026** | **Co-author** | Multimodal Graph Neural Network Framework for Railway Fastener Tightness Assessment from High-Resolution Point Clouds | Engineering Applications of Artificial Intelligence |
-| **9** | **2025** | **Co-author** | Attention-Guided Triplet Framework for Synthetic Data Generation and Semantic Segmentation of Railway Fasteners under Data Scarcity and Disparity | Applied Soft Computing |
-| **10** | **2025** | **Co-author** | An Efficient PointNet-Based Multifaceted Autoencoder for Denoising Rail Track Fastener Point Clouds | Journal of Civil Structural Health Monitoring |
-| **11** | **2025** | **Co-author** | Self-Supervised Contrastive Anomaly Detection in Railway Fasteners Using Point Clouds and Deep Metric Learning for Imbalanced Dataset | Journal of Civil Structural Health Monitoring |
-| **12** | **2025** | **Co-author** | Intelligent Multitasking Framework for Boundary-Preserving Semantic Segmentation, Width Estimation, and Propagation Modeling of Concrete Cracks | Journal of Infrastructure Systems |
+| **5** | **2025** | **3rd-author** | LiDAR-Simulated Multimodal and Self-Supervised Contrastive Digital Twin Approach for Probabilistic Point Cloud Generation of Rail Fasteners | Journal of Computing in Civil Engineering |
+| **6** | **2025** | **3rd-author** | Vector-Quantized Variational Teacher and Multimodal Collaborative Student for Crack Segmentation via Knowledge Distillation | Journal of Computing in Civil Engineering |
+| **7** | **2025** | **3rd-author** | Multimodal Geometric AutoEncoder for Rail Fasteners Tightness Evaluation with Point Clouds and Monocular Depth Fusion | Measurement |
+| **8** | **2026** | **2nd-author** | Multimodal Graph Neural Network Framework for Railway Fastener Tightness Assessment from High-Resolution Point Clouds | Engineering Applications of Artificial Intelligence |
+| **9** | **2025** | **3rd-author** | Attention-Guided Triplet Framework for Synthetic Data Generation and Semantic Segmentation of Railway Fasteners under Data Scarcity and Disparity | Applied Soft Computing |
+| **10** | **2025** | **3rd-author** | An Efficient PointNet-Based Multifaceted Autoencoder for Denoising Rail Track Fastener Point Clouds | Journal of Civil Structural Health Monitoring |
+| **11** | **2025** | **3rd-author** | Self-Supervised Contrastive Anomaly Detection in Railway Fasteners Using Point Clouds and Deep Metric Learning for Imbalanced Dataset | Journal of Civil Structural Health Monitoring |
+| **12** | **2025** | **3rd-author** | Intelligent Multitasking Framework for Boundary-Preserving Semantic Segmentation, Width Estimation, and Propagation Modeling of Concrete Cracks | Journal of Infrastructure Systems |
 
 ---
 
