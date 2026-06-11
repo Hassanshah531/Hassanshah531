@@ -128,27 +128,6 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 🎓 Education
-
-| Degree | University | Duration | Details |
-|---|---|---|---|
-| **BS Computer Science** | **COMSATS University Islamabad, Pakistan** | 2018 – 2022 | CGPA: 3.24 / 4.00 |
-| **Thesis** | **Transfer Learning-Based Contagious Diseases Transmission Video Surveillance: A COVID-19 Case Study** | 2022 | Developed an AI-powered video surveillance framework for monitoring contagious disease transmission. The work was presented at the **International Conference on Smart Systems and Emerging Technologies, ISSET**, and published as a book chapter in **Lecture Notes in Networks and Systems, LNNS Volume 1401, Springer** |
-
----
-
-## 📌 What I Deliver
-
-✅ **Trustworthy visual AI systems** — watermarking, provenance, traceability, attribution, multimedia security, and generative AI threat modeling  
-✅ **End-to-end AI pipelines** — data preparation, model design, training, evaluation, deployment, and reproducible experimentation  
-✅ **Medical AI pipelines** — preprocessing, segmentation, classification, clinical metrics, explainability, and diagnostic support  
-✅ **Computer Vision solutions** — detection, segmentation, tracking, object localization, image enhancement, and visual inspection  
-✅ **Smart infrastructure intelligence** — structural health monitoring, railway fastener inspection, infrastructure monitoring, health scoring, predictive maintenance, and digital twins  
-✅ **Generative AI applications** — RAG, multimodal assistants, agents, VLMs, diffusion-based systems, and foundation model workflows  
-✅ **Production-aware development** — clean code, experiment tracking, inference optimization, reproducibility, and deployment mindset  
-
----
-
 ## 🚀 Selected Projects
 
 | Project | Description |
@@ -187,7 +166,6 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 |---|---|---|
 | **2024** | International Training on Clean Technologies for Pb and Zn Resource Utilization | Central South University |
 | **2023** | Trainer: “Mastering Artificial Intelligence in 5 Days” | Medical Imaging and Diagnostics Lab |
-| **2024–2025** | Marathon and Mountain Hiking Competitions | Central South University, China |
 
 ---
 
@@ -197,16 +175,7 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 |---|---|---|
 | **2023** | AI Healthcare Summit, FAST-NUCES Islamabad | Presented AI research on breast cancer and brain tumor detection with the MIDL/NCAI team |
 | **2022** | Breast Cancer Symposium, COMSATS University Islamabad | Organized industrial event representing NCAI and Medical Imaging & Diagnostics Lab |
-| **2022** | International Conference on Smart Systems and Emerging Technologies, ISSET | Presented thesis-related work on transfer learning-based contagious disease transmission surveillance |
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|---|---|
-| **English** | Professional working proficiency |
-| **Chinese** | Intermediate communication level |
+ transmission surveillance |
 
 ---
 
@@ -222,11 +191,3 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 </p>
 
 ---
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="mailto:syedmahmedhassan321@gmail.com"><img src="https://img.shields.io/badge/Email-syedmahmedhassan321%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ahmed-hassan-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hassan%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.researchgate.net/profile/S-Muhammad-Ahmed-Hassan-Shah" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-Research%20Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-</p>
