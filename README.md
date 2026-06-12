@@ -129,14 +129,14 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
   </tr>
 
   <tr>
-    <td><b>Research Assistant</b></td>
+    <td><b>Research Associate</b></td>
     <td>
       <b>Central South University</b><br>
       <img src="https://img.shields.io/badge/China-Research%20Role-0077B6?style=flat-square"/>
     </td>
     <td><b>Sep 2024 – Present</b></td>
     <td align="justify">
-      Working on AI-driven railway infrastructure monitoring, intelligent infrastructure management, structural health monitoring, smart transportation systems, point cloud intelligence, generative AI, digital twins, and explainable maintenance support.
+      Working on AI-driven railway infrastructure monitoring, intelligent infrastructure management, structural health monitoring, point cloud intelligence, generative AI, digital twins, and IoT.
     </td>
   </tr>
 
@@ -153,14 +153,14 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
   </tr>
 
   <tr>
-    <td><b>AI Engineer / RA</b></td>
+    <td><b>AI Engineer</b></td>
     <td>
       <b>National Center of Artificial Intelligence</b><br>
       <img src="https://img.shields.io/badge/Pakistan-Medical%20Imaging%20AI-2A9D8F?style=flat-square"/>
     </td>
     <td><b>Sep 2022 – Sep 2023</b></td>
     <td align="justify">
-      Developed AI and computer vision methods for medical image analysis, disease detection, segmentation, classification, and clinical decision-support systems across multiple diagnostic research projects.
+      Developed AI-based medical imaging methods at Medical Imaging & Diagnostics Lab, NCAI, focusing on MRI, mammography, and X-ray for brain tumor detection, tuberculosis screening, and breast cancer detection.
     </td>
   </tr>
 </table>
