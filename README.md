@@ -167,16 +167,74 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 🚀 Selected Projects
+<h2>🚀 Selected Projects</h2>
 
-| Project | Description |
-|---|---|
-| **Railway Fastener AI Inspection System** | AI-driven railway fastener fault detection system with health scoring and Grad-CAM based explainable maintenance insights |
-| **DiCOM Viewer for Medical Diagnosis** | AI-based diagnostic tool for chest, breast, and brain imaging under the Higher Education Commission, Pakistan |
-| **Transfer Learning-Based COVID-19 Surveillance** | AI-powered video surveillance framework for detecting human interaction patterns related to contagious disease transmission |
-| **Medical Image Analysis Systems** | AI models for tuberculosis, breast cancer, brain tumor, hemorrhage, Alzheimer’s disease, chronic wounds, and ulcers |
-| **Point Cloud and Digital Twin Systems** | LiDAR-simulated multimodal intelligence for railway fasteners and smart infrastructure monitoring |
-| **Geotechnical AI and Infrastructure Safety** | AI, PINNs, and generative modeling approaches for soil stability analysis and infrastructure reliability |
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧬 Histopathology VLM Agent</h3>
+      <img src="https://img.shields.io/badge/Medical%20AI-Vision--Language%20Agent-D00000?style=flat-square"/>
+      <br><br>
+      <p align="justify">
+        An interactive <b>Histopathology Vision-Language Model Agent</b> for clinical decision support, secure case management, medical image understanding, and AI-assisted diagnostic reporting.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Clinical%20AI-0077B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
+      </p>
+    </td>
+
+    <td width="33%" align="center">
+      <h3>🏗️ UCS Prediction Platform</h3>
+      <img src="https://img.shields.io/badge/Geotechnical%20AI-Physics--Informed%20Modeling-6C584C?style=flat-square"/>
+      <br><br>
+      <p align="justify">
+        A research-grade AI-assisted platform for <b>UCS prediction of cement-stabilized aeolian sand</b>, combining Physics-Informed Neural ODEs with baseline machine learning benchmarks.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Neural%20ODEs-5A189A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
+      </p>
+    </td>
+
+    <td width="33%" align="center">
+      <h3>🏥 Federated Hospital Network</h3>
+      <img src="https://img.shields.io/badge/Secure%20AI-Federated%20Learning-2A9D8F?style=flat-square"/>
+      <br><br>
+      <p align="justify">
+        A secure hospital platform to register, manage, and monitor <b>federated learning nodes</b>, enabling healthcare institutions to view network participants and support privacy-preserving AI collaboration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Privacy%20Preserving%20AI-023E8A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚆 Railway Fastener AI Inspection</h3>
+      <img src="https://img.shields.io/badge/Infrastructure%20AI-Railway%20Inspection-FF8500?style=flat-square"/>
+      <br><br>
+      <p align="justify">
+        An AI-driven inspection system for railway fastener fault detection, condition assessment, health scoring, and explainable maintenance support using visual intelligence methods.
+      </p>
+    </td>
+
+    <td width="50%" align="center">
+      <h3>🩺 Medical Imaging Diagnostic Systems</h3>
+      <img src="https://img.shields.io/badge/Diagnostic%20AI-MRI%20%7C%20Mammography%20%7C%20X--ray-D00000?style=flat-square"/>
+      <br><br>
+      <p align="justify">
+        Developed AI-based medical image analysis methods for brain tumor detection, tuberculosis screening, and breast cancer detection using MRI, mammography, and X-ray imaging.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
