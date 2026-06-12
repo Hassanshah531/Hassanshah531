@@ -60,33 +60,24 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 </div>
 
 
-## 🧩 GenAI & Deep Learning Stack
+## 🧩 AI & Deep Learning Stack
 
 <p align="left">
 
-  <!-- Trustworthy Visual AI / Security -->
-  <img src="https://img.shields.io/badge/Robust%20Watermarking-Visual%20Content%20Protection-0077B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Provenance-Traceability%20%26%20Attribution-0096C7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimedia%20Forensics-Authenticity%20%26%20Tamper%20Detection-023E8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GenAI%20Security-Threat%20Modeling%20%26%20Robustness-5A189A?style=for-the-badge"/>
-
-  <!-- Generative / Multimodal AI -->
-  <img src="https://img.shields.io/badge/VLMs-Vision%20Language%20Models-7209B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Diffusion-Generative%20Models-F77F00?style=for-the-badge"/>
+  <!-- Core AI -->
+  <img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Visual%20Learning-0077B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Diffusion%20%26%20Multimodal%20Models-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLMs-Vision--Language%20Models-7209B7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Self--Supervised%20Learning-Representation%20Learning-2A9D8F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal%20AI-Cross--Modal%20Learning-00B4D8?style=for-the-badge"/>
 
-  <!-- Efficient / Deployable AI -->
-  <img src="https://img.shields.io/badge/Knowledge%20Distillation-Efficient%20AI-264653?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quantization-Lightweight%20Inference-2D6A4F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A4C93?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Training%20to%20Deployment-343A40?style=for-the-badge"/>
+  <!-- Trustworthy AI -->
+  <img src="https://img.shields.io/badge/Trustworthy%20Visual%20AI-Watermarking%20%26%20Forensics-023E8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Security-Provenance%20%26%20Robustness-5A189A?style=for-the-badge"/>
 
-  <!-- Applied AI Domains -->
-  <img src="https://img.shields.io/badge/Medical%20AI-Diagnostic%20Intelligence-D00000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transportation%20AI-Safety%20%26%20Robustness-FF8500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Geotechnical%20AI-Soil%20%26%20Infrastructure%20Modeling-6C584C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Biosensing%20AI-Electrochemical%20Detection-0081A7?style=for-the-badge"/>
+  <!-- Efficient AI -->
+  <img src="https://img.shields.io/badge/Efficient%20AI-Distillation%20%26%20Quantization-264653?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20Agents-LLM%20Applications-6A4C93?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Reproducible%20Deployment-343A40?style=for-the-badge"/>
 
 </p>
 
