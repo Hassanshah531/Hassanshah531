@@ -35,12 +35,12 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 - 🔭 Currently focused on **Robust Watermarking, AI Provenance, Multimedia Forensics, and Generative AI Security**
 - 🧠 Core areas: **Computer Vision, Deep Learning, Generative AI, Multimodal Learning, Foundation Models, and VLMs**
 - 🤝 Previous research collaborations span **Medical AI, Smart Transportation, Structural Health Monitoring, and Geotechnical AI**
-- 🏥 Medical AI: collaborated on AI-assisted diagnosis and medical image analysis for **Alzheimer’s disease, and clinical decision support**
-- 🚆 Transportation AI: collaborated on **traffic injury severity prediction** and **highway edge-case robustness in autonomous driving**
+- 🏥 Medical AI: collaborated on AI-assisted diagnosis and medical image analysis for **clinical decision support**
+- 🚆 Transportation AI: collaborated on **traffic injury severity prediction** and **Edge-case robustness in autonomous driving**
 - 🏗️ Infrastructure AI: collaborated on **railway inspection, point clouds, digital twins, and predictive maintenance**
 - 🌍 Geotechnical AI: collaborated on **soil stability analysis using NMR data modeling and Physics-Infomred Neural Networks**
 - 🧪 Biosensing: collaborated on **machine learning-assisted electrochemical simultaneous detection of dopamine and uric acid**
-- 📘 Book author: co-author of the full book **Smart Infrastructure Management**, published by **Elsevier**, contributing across all **12 chapters**
+- 📘 Book author: co-author of the book **Smart Infrastructure Management**, published by **Elsevier**
 - ✍️ Research profile: **20+ International Jounral publications**, **h-index: 12**, **i10-index: 12**
 - 📫 Reach me at: **syedmahmedhassan321@gmail.com**
 
