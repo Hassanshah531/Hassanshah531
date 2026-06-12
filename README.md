@@ -59,27 +59,15 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 </div>
 
-
 ## 🧩 AI & Deep Learning Stack
 
-<p align="left">
-
-  <!-- Core AI -->
-  <img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Visual%20Learning-0077B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-Diffusion%20%26%20Multimodal%20Models-5A189A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLMs-Vision--Language%20Models-7209B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Self--Supervised%20Learning-Representation%20Learning-2A9D8F?style=for-the-badge"/>
-
-  <!-- Trustworthy AI -->
-  <img src="https://img.shields.io/badge/Trustworthy%20Visual%20AI-Watermarking%20%26%20Forensics-023E8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Security-Provenance%20%26%20Robustness-5A189A?style=for-the-badge"/>
-
-  <!-- Efficient AI -->
-  <img src="https://img.shields.io/badge/Efficient%20AI-Distillation%20%26%20Quantization-264653?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20%26%20Agents-LLM%20Applications-6A4C93?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Reproducible%20Deployment-343A40?style=for-the-badge"/>
-
-</p>
+| Category | Stack |
+|---|---|
+| **Core AI** | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0077B6?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-023E8A?style=flat-square) ![Representation Learning](https://img.shields.io/badge/Representation%20Learning-2A9D8F?style=flat-square) ![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised%20Learning-0081A7?style=flat-square) |
+| **Generative & Multimodal AI** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-5A189A?style=flat-square) ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-7209B7?style=flat-square) ![VLMs](https://img.shields.io/badge/Vision--Language%20Models-9D4EDD?style=flat-square) ![Multimodal Learning](https://img.shields.io/badge/Multimodal%20Learning-00B4D8?style=flat-square) |
+| **Trustworthy Visual AI** | ![Watermarking](https://img.shields.io/badge/Watermarking-00509D?style=flat-square) ![AI Provenance](https://img.shields.io/badge/AI%20Provenance-0077B6?style=flat-square) ![Multimedia Forensics](https://img.shields.io/badge/Multimedia%20Forensics-023E8A?style=flat-square) ![AI Security](https://img.shields.io/badge/AI%20Security-5A189A?style=flat-square) |
+| **Efficient AI Systems** | ![Knowledge Distillation](https://img.shields.io/badge/Knowledge%20Distillation-264653?style=flat-square) ![Quantization](https://img.shields.io/badge/Quantization-2D6A4F?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6A4C93?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-343A40?style=flat-square) |
+| **Engineering & Deployment** | ![MLOps](https://img.shields.io/badge/MLOps-343A40?style=flat-square) ![Reproducibility](https://img.shields.io/badge/Reproducibility-495057?style=flat-square) ![Deployment](https://img.shields.io/badge/Deployment-212529?style=flat-square) ![Optimization](https://img.shields.io/badge/Optimization-264653?style=flat-square) |
 
 ---
 
