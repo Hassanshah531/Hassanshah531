@@ -155,8 +155,8 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
   <tr>
     <td><b>AI Engineer / Research Assistant</b></td>
     <td>
-      <b>National Center of Artificial Intelligence</b><br>
-      <b>Medical Imaging & Diagnostics Lab</b><br>
+      <b>National Center of AI</b><br>
+      <b>Medical Imaging Lab</b><br>
       <img src="https://img.shields.io/badge/Pakistan-Medical%20Imaging%20AI-2A9D8F?style=flat-square"/>
     </td>
     <td><b>Sep 2022 – Sep 2023</b></td>
