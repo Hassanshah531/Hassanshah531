@@ -148,7 +148,7 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
     </td>
     <td><b>May 2024 – Sep 2024</b></td>
     <td align="justify">
-      Contributed to medical imaging research and AI-based diagnostic support, with a focus on computer vision methods for brain hemorrhage detection and healthcare-oriented image analysis.
+      Contributed to medical imaging research and AI-based diagnostic support, with a focus on computer vision methods for brain hemorrhage detection.
     </td>
   </tr>
 
