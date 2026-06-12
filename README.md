@@ -171,67 +171,56 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" valign="top">
       <h3>🧬 Histopathology VLM Agent</h3>
-      <img src="https://img.shields.io/badge/Medical%20AI-Vision--Language%20Agent-D00000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Medical_AI-Vision_Language_Agent-D00000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Built_with-Google_AI_Studio-4285F4?style=flat-square"/>
       <br><br>
-      <p align="justify">
-        An interactive <b>Histopathology Vision-Language Model Agent</b> for clinical decision support, secure case management, medical image understanding, and AI-assisted diagnostic reporting.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Clinical%20AI-0077B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
-      </p>
+      An interactive Histopathology Vision-Language Model Agent for clinical decision support, secure case management, medical image understanding, and AI-assisted reporting.
     </td>
 
-    <td width="33%" align="center">
+    <td width="50%" valign="top">
       <h3>🏗️ UCS Prediction Platform</h3>
-      <img src="https://img.shields.io/badge/Geotechnical%20AI-Physics--Informed%20Modeling-6C584C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Geotechnical_AI-Physics_Informed_Modeling-6C584C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Neural_ODEs-5A189A?style=flat-square"/>
       <br><br>
-      <p align="justify">
-        A research-grade AI-assisted platform for <b>UCS prediction of cement-stabilized aeolian sand</b>, combining Physics-Informed Neural ODEs with baseline machine learning benchmarks.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Neural%20ODEs-5A189A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
-      </p>
-    </td>
-
-    <td width="33%" align="center">
-      <h3>🏥 Federated Hospital Network</h3>
-      <img src="https://img.shields.io/badge/Secure%20AI-Federated%20Learning-2A9D8F?style=flat-square"/>
-      <br><br>
-      <p align="justify">
-        A secure hospital platform to register, manage, and monitor <b>federated learning nodes</b>, enabling healthcare institutions to view network participants and support privacy-preserving AI collaboration.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Privacy%20Preserving%20AI-023E8A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Built%20With-Google%20AI%20Studio-4285F4?style=flat-square"/>
-      </p>
+      A research-grade AI-assisted UCS prediction platform for cement-stabilized aeolian sand using Physics-Informed Neural ODEs and baseline ML benchmarks.
     </td>
   </tr>
-</table>
 
-<br>
-
-<table>
   <tr>
-    <td width="50%" align="center">
-      <h3>🚆 Railway Fastener AI Inspection</h3>
-      <img src="https://img.shields.io/badge/Infrastructure%20AI-Railway%20Inspection-FF8500?style=flat-square"/>
+    <td width="50%" valign="top">
+      <h3>🏥 Federated Hospital Network</h3>
+      <img src="https://img.shields.io/badge/Secure_AI-Federated_Learning-2A9D8F?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Privacy_Preserving_AI-023E8A?style=flat-square"/>
       <br><br>
-      <p align="justify">
-        An AI-driven inspection system for railway fastener fault detection, condition assessment, health scoring, and explainable maintenance support using visual intelligence methods.
-      </p>
+      A secure platform for hospitals to register, manage, and monitor federated learning nodes, view network participants, and support privacy-preserving healthcare AI collaboration.
     </td>
 
-    <td width="50%" align="center">
-      <h3>🩺 Medical Imaging Diagnostic Systems</h3>
-      <img src="https://img.shields.io/badge/Diagnostic%20AI-MRI%20%7C%20Mammography%20%7C%20X--ray-D00000?style=flat-square"/>
+    <td width="50%" valign="top">
+      <h3>🚆 Railway Fastener AI Inspection</h3>
+      <img src="https://img.shields.io/badge/Infrastructure_AI-Railway_Inspection-FF8500?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Explainable_AI-0077B6?style=flat-square"/>
       <br><br>
-      <p align="justify">
-        Developed AI-based medical image analysis methods for brain tumor detection, tuberculosis screening, and breast cancer detection using MRI, mammography, and X-ray imaging.
-      </p>
+      An AI-driven inspection system for railway fastener fault detection, condition assessment, health scoring, and explainable maintenance support.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Medical Imaging Diagnostic Systems</h3>
+      <img src="https://img.shields.io/badge/Diagnostic_AI-MRI_Mammography_Xray-D00000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Clinical_AI-0077B6?style=flat-square"/>
+      <br><br>
+      Developed AI-based medical image analysis methods for brain tumor detection, tuberculosis screening, and breast cancer detection using MRI, mammography, and X-ray imaging.
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🛡️ Secure Medical AI Systems</h3>
+      <img src="https://img.shields.io/badge/AI_Security-Medical_Data_Protection-023E8A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Focus-Trustworthy_AI-2A9D8F?style=flat-square"/>
+      <br><br>
+      Exploratory work connecting secure AI, medical data protection, trustworthy visual systems, and privacy-aware clinical AI workflows.
     </td>
   </tr>
 </table>
