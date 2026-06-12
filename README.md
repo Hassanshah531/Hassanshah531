@@ -118,13 +118,53 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 💼 Experience
+<h2>💼 Experience</h2>
 
-| Role | Organization | Duration | Focus |
-|---|---|---|---|
-| **Research Assistant** | **Central South University, China** | Sep 2024 – Present | AI-driven railway infrastructure monitoring, intelligent infrastructure management, structural health monitoring, smart transportation systems, point cloud intelligence, generative AI, digital twins, and explainable maintenance systems |
-| **AI Engineer** | **NeuroCare.AI, USA Remote** | May 2024 – Sep 2024 | Medical imaging, brain hemorrhage detection, computer vision, and AI-based diagnostic support |
-| **AI Engineer / Research Assistant** | **National Center of Artificial Intelligence, Medical Imaging & Diagnostics Lab, Pakistan** | Sep 2022 – Sep 2023 | AI for MRI, CT, X-ray, ultrasound, tuberculosis, breast cancer, brain tumor diagnosis, and automated clinical decision support |
+<table>
+  <tr>
+    <th align="left">Role</th>
+    <th align="left">Organization</th>
+    <th align="left">Duration</th>
+    <th align="left">Focus</th>
+  </tr>
+
+  <tr>
+    <td><b>Research Assistant</b></td>
+    <td>
+      <b>Central South University</b><br>
+      <img src="https://img.shields.io/badge/China-Research%20Role-0077B6?style=flat-square"/>
+    </td>
+    <td><b>Sep 2024 – Present</b></td>
+    <td align="justify">
+      Working on AI-driven railway infrastructure monitoring, intelligent infrastructure management, structural health monitoring, smart transportation systems, point cloud intelligence, generative AI, digital twins, and explainable maintenance support.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI Engineer</b></td>
+    <td>
+      <b>NeuroCare.AI</b><br>
+      <img src="https://img.shields.io/badge/USA%20Remote-Medical%20AI-D00000?style=flat-square"/>
+    </td>
+    <td><b>May 2024 – Sep 2024</b></td>
+    <td align="justify">
+      Contributed to medical imaging research and AI-based diagnostic support, with a focus on computer vision methods for brain hemorrhage detection and healthcare-oriented image analysis.
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI Engineer / Research Assistant</b></td>
+    <td>
+      <b>National Center of Artificial Intelligence</b><br>
+      <b>Medical Imaging & Diagnostics Lab</b><br>
+      <img src="https://img.shields.io/badge/Pakistan-Medical%20Imaging%20AI-2A9D8F?style=flat-square"/>
+    </td>
+    <td><b>Sep 2022 – Sep 2023</b></td>
+    <td align="justify">
+      Developed AI and computer vision methods for medical image analysis, disease detection, segmentation, classification, and clinical decision-support systems across multiple diagnostic research projects.
+    </td>
+  </tr>
+</table>
 
 ---
 
