@@ -236,15 +236,34 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 📈 GitHub Analytics
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hassanshah531&show_icons=true&locale=en" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshah531&show_icons=true&locale=en&layout=compact" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=hassanshah531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshah531&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshah531&" />
+  <img 
+    height="180" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hassanshah531&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanshah531&theme=tokyonight" 
+    alt="GitHub Profile Summary" 
+  />
 </p>
 
 ---
