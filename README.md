@@ -160,22 +160,61 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 ---
 
-## 🏆 Awards, Training & Activities
+<h2>🏆 Training, Conferences & Academic Activities</h2>
 
-| Year | Activity | Organization |
-|---|---|---|
-| **2024** | International Training on Clean Technologies for Pb and Zn Resource Utilization | Central South University |
-| **2023** | Trainer: “Mastering Artificial Intelligence in 5 Days” | Medical Imaging and Diagnostics Lab |
+<table>
+  <tr>
+    <th align="left">Year</th>
+    <th align="left">Category</th>
+    <th align="left">Activity / Event</th>
+    <th align="left">Role / Contribution</th>
+  </tr>
 
----
+  <tr>
+    <td><b>2024</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Training-Clean%20Technologies-2A9D8F?style=flat-square"/>
+    </td>
+    <td><b>International Training on Clean Technologies for Pb and Zn Resource Utilization</b></td>
+    <td align="justify">Completed specialized training at <b>Central South University</b>, focused on clean technologies, resource utilization, and sustainable industrial practices.</td>
+  </tr>
 
-## 🎤 Conferences & Seminars
+  <tr>
+    <td><b>2023</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Trainer-Artificial%20Intelligence-0077B6?style=flat-square"/>
+    </td>
+    <td><b>Mastering Artificial Intelligence in 5 Days</b></td>
+    <td align="justify">Served as a trainer at the <b>Medical Imaging and Diagnostics Lab</b>, delivering hands-on AI training focused on practical machine learning and deep learning applications.</td>
+  </tr>
 
-| Year | Event | Contribution |
-|---|---|---|
-| **2023** | AI Healthcare Summit, FAST-NUCES Islamabad | Presented AI research on breast cancer and brain tumor detection with the MIDL/NCAI team |
-| **2022** | Breast Cancer Symposium, COMSATS University Islamabad | Organized industrial event representing NCAI and Medical Imaging & Diagnostics Lab |
- transmission surveillance |
+  <tr>
+    <td><b>2023</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Summit-Healthcare%20AI-D00000?style=flat-square"/>
+    </td>
+    <td><b>AI Healthcare Summit, FAST-NUCES Islamabad</b></td>
+    <td align="justify">Presented AI-based healthcare research on <b>breast cancer</b> and <b>brain tumor detection</b> as part of the MIDL/NCAI research team.</td>
+  </tr>
+
+  <tr>
+    <td><b>2022</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Event-Breast%20Cancer%20AI-C9184A?style=flat-square"/>
+    </td>
+    <td><b>Breast Cancer Symposium, COMSATS University Islamabad</b></td>
+    <td align="justify">Organized an industrial-academic event representing the <b>National Center of Artificial Intelligence</b> and the <b>Medical Imaging and Diagnostics Lab</b>.</td>
+  </tr>
+
+  <tr>
+    <td><b>2022</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Conference-Smart%20Systems-5A189A?style=flat-square"/>
+    </td>
+    <td><b>International Conference on Smart Systems and Emerging Technologies</b></td>
+    <td align="justify">Presented thesis-related work on <b>transfer learning-based contagious disease transmission video surveillance</b>.</td>
+  </tr>
+</table>
 
 ---
 
