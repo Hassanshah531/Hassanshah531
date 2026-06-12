@@ -166,64 +166,16 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 </table>
 
 ---
+## 🚀 Selected Projects
 
-<h2>🚀 Selected Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 Histopathology VLM Agent</h3>
-      <img src="https://img.shields.io/badge/Medical_AI-Vision_Language_Agent-D00000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Built_with-Google_AI_Studio-4285F4?style=flat-square"/>
-      <br><br>
-      An interactive Histopathology Vision-Language Model Agent for clinical decision support, secure case management, medical image understanding, and AI-assisted reporting.
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🏗️ UCS Prediction Platform</h3>
-      <img src="https://img.shields.io/badge/Geotechnical_AI-Physics_Informed_Modeling-6C584C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Focus-Neural_ODEs-5A189A?style=flat-square"/>
-      <br><br>
-      A research-grade AI-assisted UCS prediction platform for cement-stabilized aeolian sand using Physics-Informed Neural ODEs and baseline ML benchmarks.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Federated Hospital Network</h3>
-      <img src="https://img.shields.io/badge/Secure_AI-Federated_Learning-2A9D8F?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Focus-Privacy_Preserving_AI-023E8A?style=flat-square"/>
-      <br><br>
-      A secure platform for hospitals to register, manage, and monitor federated learning nodes, view network participants, and support privacy-preserving healthcare AI collaboration.
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🚆 Railway Fastener AI Inspection</h3>
-      <img src="https://img.shields.io/badge/Infrastructure_AI-Railway_Inspection-FF8500?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Focus-Explainable_AI-0077B6?style=flat-square"/>
-      <br><br>
-      An AI-driven inspection system for railway fastener fault detection, condition assessment, health scoring, and explainable maintenance support.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Medical Imaging Diagnostic Systems</h3>
-      <img src="https://img.shields.io/badge/Diagnostic_AI-MRI_Mammography_Xray-D00000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Focus-Clinical_AI-0077B6?style=flat-square"/>
-      <br><br>
-      Developed AI-based medical image analysis methods for brain tumor detection, tuberculosis screening, and breast cancer detection using MRI, mammography, and X-ray imaging.
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🛡️ Secure Medical AI Systems</h3>
-      <img src="https://img.shields.io/badge/AI_Security-Medical_Data_Protection-023E8A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Focus-Trustworthy_AI-2A9D8F?style=flat-square"/>
-      <br><br>
-      Exploratory work connecting secure AI, medical data protection, trustworthy visual systems, and privacy-aware clinical AI workflows.
-    </td>
-  </tr>
-</table>
+| Project | Type | Description |
+|---|---|---|
+| **🧬 Histopathology VLM Agent** | ![Medical AI](https://img.shields.io/badge/Medical_AI-Vision_Language_Agent-D00000?style=flat-square) ![Google AI Studio](https://img.shields.io/badge/Built_with-Google_AI_Studio-4285F4?style=flat-square) | An interactive Histopathology Vision-Language Model Agent for clinical decision support, secure case management, medical image understanding, and AI-assisted reporting. |
+| **🏗️ UCS Prediction Platform** | ![Geotechnical AI](https://img.shields.io/badge/Geotechnical_AI-Physics_Informed_Modeling-6C584C?style=flat-square) ![Neural ODEs](https://img.shields.io/badge/Focus-Neural_ODEs-5A189A?style=flat-square) | A research-grade AI-assisted UCS prediction platform for cement-stabilized aeolian sand using Physics-Informed Neural ODEs and baseline ML benchmarks. |
+| **🏥 Federated Hospital Network** | ![Secure AI](https://img.shields.io/badge/Secure_AI-Federated_Learning-2A9D8F?style=flat-square) ![Privacy AI](https://img.shields.io/badge/Focus-Privacy_Preserving_AI-023E8A?style=flat-square) | A secure platform for hospitals to register, manage, and monitor federated learning nodes, view network participants, and support privacy-preserving healthcare AI collaboration. |
+| **🚆 Railway Fastener AI Inspection** | ![Infrastructure AI](https://img.shields.io/badge/Infrastructure_AI-Railway_Inspection-FF8500?style=flat-square) ![Explainable AI](https://img.shields.io/badge/Focus-Explainable_AI-0077B6?style=flat-square) | An AI-driven inspection system for railway fastener fault detection, condition assessment, health scoring, and explainable maintenance support. |
+| **🩺 Medical Imaging Diagnostic Systems** | ![Diagnostic AI](https://img.shields.io/badge/Diagnostic_AI-MRI_Mammography_Xray-D00000?style=flat-square) ![Clinical AI](https://img.shields.io/badge/Focus-Clinical_AI-0077B6?style=flat-square) | Developed AI-based medical image analysis methods for brain tumor detection, tuberculosis screening, and breast cancer detection using MRI, mammography, and X-ray imaging. |
+| **🛡️ Secure Medical AI Systems** | ![AI Security](https://img.shields.io/badge/AI_Security-Medical_Data_Protection-023E8A?style=flat-square) ![Trustworthy AI](https://img.shields.io/badge/Focus-Trustworthy_AI-2A9D8F?style=flat-square) | Exploratory work connecting secure AI, medical data protection, trustworthy visual systems, and privacy-aware clinical AI workflows. |
 
 ---
 
