@@ -184,18 +184,18 @@ Before moving deeply into the watermarking and provenance domain, I collaborated
 
 | No. | Year | Authorship | Publication / Work | Venue |
 |---|---|---|---|---|
-| **1** | **2025** | **1st Author** | Multimodal Cross-Domain Contrastive Learning: A Self-Supervised Generative and Geometric Framework for Visual Perception | Information Sciences |
-| **2** | **2023** | **1st Author** | Classifying and Localizing Abnormalities in Brain MRI Using Channel Attention-Based Semi-Bayesian Ensemble Voting Mechanism and Convolutional Auto-Encoder | IEEE Access |
-| **3** | **2024** | **1st Author** | Computer-aided Diagnosis of Alzheimer’s Disease and Neurocognitive Disorders with Multimodal Bi-Vision Transformer | Pattern Analysis and Applications |
-| **4** | **2023** | **1st Author** | CADFU for Dermatologists: A Novel Chronic Wounds and Ulcers Diagnosis System with DHuNeT and YOLOv8 Algorithm | Healthcare |
-| **5** | **2025** | **3rd-author** | LiDAR-Simulated Multimodal and Self-Supervised Contrastive Digital Twin Approach for Probabilistic Point Cloud Generation of Rail Fasteners | Journal of Computing in Civil Engineering |
-| **6** | **2025** | **3rd-author** | Vector-Quantized Variational Teacher and Multimodal Collaborative Student for Crack Segmentation via Knowledge Distillation | Journal of Computing in Civil Engineering |
-| **7** | **2025** | **3rd-author** | Multimodal Geometric AutoEncoder for Rail Fasteners Tightness Evaluation with Point Clouds and Monocular Depth Fusion | Measurement |
-| **8** | **2026** | **2nd-author** | Multimodal Graph Neural Network Framework for Railway Fastener Tightness Assessment from High-Resolution Point Clouds | Engineering Applications of Artificial Intelligence |
-| **9** | **2025** | **3rd-author** | Attention-Guided Triplet Framework for Synthetic Data Generation and Semantic Segmentation of Railway Fasteners under Data Scarcity and Disparity | Applied Soft Computing |
-| **10** | **2025** | **3rd-author** | An Efficient PointNet-Based Multifaceted Autoencoder for Denoising Rail Track Fastener Point Clouds | Journal of Civil Structural Health Monitoring |
-| **11** | **2025** | **3rd-author** | Self-Supervised Contrastive Anomaly Detection in Railway Fasteners Using Point Clouds and Deep Metric Learning for Imbalanced Dataset | Journal of Civil Structural Health Monitoring |
-| **12** | **2025** | **3rd-author** | Intelligent Multitasking Framework for Boundary-Preserving Semantic Segmentation, Width Estimation, and Propagation Modeling of Concrete Cracks | Journal of Infrastructure Systems |
+| **1** | **2025** | **1st** | Multimodal Cross-Domain Contrastive Learning: A Self-Supervised Generative and Geometric Framework for Visual Perception | Information Sciences |
+| **2** | **2023** | **1st** | Classifying and Localizing Abnormalities in Brain MRI Using Channel Attention-Based Semi-Bayesian Ensemble Voting Mechanism and Convolutional Auto-Encoder | IEEE Access |
+| **3** | **2024** | **1st** | Computer-aided Diagnosis of Alzheimer’s Disease and Neurocognitive Disorders with Multimodal Bi-Vision Transformer | Pattern Analysis and Applications |
+| **4** | **2023** | **1st** | CADFU for Dermatologists: A Novel Chronic Wounds and Ulcers Diagnosis System with DHuNeT and YOLOv8 Algorithm | Healthcare |
+| **5** | **2025** | **3rd** | LiDAR-Simulated Multimodal and Self-Supervised Contrastive Digital Twin Approach for Probabilistic Point Cloud Generation of Rail Fasteners | Journal of Computing in Civil Engineering |
+| **6** | **2025** | **3rd** | Vector-Quantized Variational Teacher and Multimodal Collaborative Student for Crack Segmentation via Knowledge Distillation | Journal of Computing in Civil Engineering |
+| **7** | **2025** | **3rd** | Multimodal Geometric AutoEncoder for Rail Fasteners Tightness Evaluation with Point Clouds and Monocular Depth Fusion | Measurement |
+| **8** | **2026** | **2nd** | Multimodal Graph Neural Network Framework for Railway Fastener Tightness Assessment from High-Resolution Point Clouds | Engineering Applications of Artificial Intelligence |
+| **9** | **2025** | **3rd** | Attention-Guided Triplet Framework for Synthetic Data Generation and Semantic Segmentation of Railway Fasteners under Data Scarcity and Disparity | Applied Soft Computing |
+| **10** | **2025** | **3rd** | An Efficient PointNet-Based Multifaceted Autoencoder for Denoising Rail Track Fastener Point Clouds | Journal of Civil Structural Health Monitoring |
+| **11** | **2025** | **3rd** | Self-Supervised Contrastive Anomaly Detection in Railway Fasteners Using Point Clouds and Deep Metric Learning for Imbalanced Dataset | Journal of Civil Structural Health Monitoring |
+| **12** | **2025** | **3rd** | Intelligent Multitasking Framework for Boundary-Preserving Semantic Segmentation, Width Estimation, and Propagation Modeling of Concrete Cracks | Journal of Infrastructure Systems |
 
 ---
 
