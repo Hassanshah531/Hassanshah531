@@ -39,7 +39,7 @@ AI Researcher | 3D Computer Vision | Intelligent Infrastructure | Scientific Mac
 
 <div align="justify">
 
-I am a **Researcher at Central South University, China**, with a BS degree in **Computer Science**.
+I am **working as a research assistant at Central South University, China**, with a BS degree in **Computer Science**.
 
 My work lies at the intersection of **computer vision and engineering**, where I develop learning-based systems for railway inspection, structural condition assessment, 3D scene understanding, predictive monitoring, and physics-informed modeling.
 
