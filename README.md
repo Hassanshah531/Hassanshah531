@@ -39,7 +39,7 @@ AI Researcher | 3D Computer Vision | Intelligent Infrastructure | Scientific Mac
 
 <div align="justify">
 
-I am an **AI Researcher and MPhil researcher in Civil Engineering at Central South University, China**, with a previous degree in **Computer Science**.
+I am a **Researcher at Central South University, China**, with a BS degree in **Computer Science**.
 
 My work lies at the intersection of **computer vision and engineering**, where I develop learning-based systems for railway inspection, structural condition assessment, 3D scene understanding, predictive monitoring, and physics-informed modeling.
 
@@ -49,7 +49,7 @@ I am particularly interested in building AI systems that move beyond isolated pr
 
 </div>
 
-- 🎓 MPhil Civil Engineering — Central South University
+- 🎓 Research Assistant — Central South University
 - 💻 BS Computer Science — COMSATS University Islamabad
 - 📚 Published in Elsevier, Springer, IEEE, and ASCE venues
 - 🏆 Best Researcher Award in Computer Vision, 2026
@@ -81,7 +81,7 @@ I am particularly interested in building AI systems that move beyond isolated pr
   </tr>
 
   <tr>
-    <td><b>MPhil Researcher</b></td>
+    <td><b>RA</b></td>
     <td><b>Central South University</b></td>
     <td><b>Sep 2024 – Present</b></td>
     <td align="justify">
